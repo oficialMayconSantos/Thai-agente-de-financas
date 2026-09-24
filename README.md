@@ -1,5 +1,8 @@
 # 🤖 THAI Agente Financeiro Inteligente
-...
+A Thai é uma agente de Inteligência Artificial desenvolvida para atuar como sua educadora financeira virtual.             
+💬 Através de um chat interativo, ela ajuda a organizar seu orçamento e a analisar a viabilidade de gastos diários.        
+📊 Utilizando modelos de linguagem, ela compreende o seu contexto para ensinar conceitos financeiros de forma prática.       
+🛡️ O foco é 100% educacional, auxiliando no planejamento financeiro em uma conversa amigável e sem recomendar investimentos específicos.       
 
 **O que a Thai faz:**
 - ✅ Explica conceitos financeiros de forma simples
