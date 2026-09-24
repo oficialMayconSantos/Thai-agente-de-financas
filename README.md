@@ -72,3 +72,7 @@ pip install streamlit pandas requests
 ```bash
 streamlit run src/app.py
 ```
+
+## Considerações Finais:  
+Esse projeto foi feito por meio de guia de aprendizagem do curso da DIO.ME, com o objetivo de ensinar conceitos de criação de agentes inteligentes.  
+ Por tanto esse repositório também pode servir para aqueles que queiram aprender e ter uma base de como iniciar um projeto de criação de agentes, como, irá servir para futuros projetos pessoais próprio.
